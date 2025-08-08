@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nimi": "Ikaalinen taajama",
+        "nimi": "Ikaalinen taajama"
       },
       "geometry": {
         "type": "Polygon",
@@ -56,8 +56,7 @@
     {
       "type": "Feature",
       "properties": {
-        "nimi": "Ikaalinen Kilvakkala",
-  
+        "nimi": "Ikaalinen Kilvakkala"
       },
       "geometry": {
         "type": "Polygon",
@@ -556,3 +555,4 @@
   ]
 
 }
+
