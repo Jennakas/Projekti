@@ -96,7 +96,8 @@
     {
       "type": "Feature",
       "properties": {
-        "nimi": "Vesilahti"
+        "nimi": "Vesilahti",
+        "color": "#62b0f5"
       },
       "geometry": {
         "type": "Polygon",
@@ -555,4 +556,5 @@
   ]
 
 }
+
 
