@@ -358,10 +358,7 @@
         ]]
       }
     },
-    {
-  "type": "FeatureCollection",
-  "features": [
-    {
+   {
       "type": "Feature",
       "properties": {
         "nimi": "Nokia Ekkermanninkulma"
@@ -1404,5 +1401,6 @@
   ]
 
 }
+
 
 
